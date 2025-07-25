@@ -1,4 +1,4 @@
-# 📮 Odoo 学习文档问题反馈仓库 | Odoo Docs Feedback
+# 📮 Odoo 开发文档问题反馈仓库 | Odoo Docs Feedback
 
 欢迎来到本仓库！这是用于收集 [Odoo 学习文档网站]([https://your-docs-site.com](https://odoo-dev-doc-s2hl.vercel.app/)) 中 **内容错误、建议改进或其他反馈** 的地方。
 
