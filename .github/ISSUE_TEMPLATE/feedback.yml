@@ -1,6 +1,6 @@
 name: 文档问题反馈
 description: 开发文档的问题或建议
-title: ""
+title: "[]"
 labels: ["feedback"]
 body:
   - type: input
