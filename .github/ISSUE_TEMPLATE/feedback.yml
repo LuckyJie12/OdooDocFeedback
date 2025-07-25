@@ -1,0 +1,19 @@
+name: 文档问题反馈
+description: 报告文档的问题或建议
+title: "[反馈] "
+labels: ["feedback"]
+body:
+  - type: input
+    id: page_url
+    attributes:
+      label: 文档页面链接
+      placeholder: "https://your-doc-site.com/..."
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: 问题描述或建议
+      placeholder: 详细描述你发现的问题或改进建议...
+    validations:
+      required: true
